@@ -26,30 +26,47 @@ Once everything was gathered, we could then look at how the new summaries differ
 ![PY CITY SCHOOLS ORIGINAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/PYCitySchoolsDist.png)
 
 #### District Summary New
-![SCHOOL SUMMARY AFTER REMOVAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/District_Summary_No_Thomas_9th_Grade.png)
-
+![SCHOOL SUMMARY AFTER REMOVAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/District_With_9th_Correct_Metrics.png)
 
 We immediately see a few examples of how this changes the data for the district summary:
-- Lower Avg Math Score
-- Lower Avg Reading Score
+- Lower Passing Math %
+- Lower Passing Reading %
 - Lower Overall Passing %
 
 ####  School Summary Original
 ![PY CITY SCHOOLS ORIGINAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/PycitySchoolSummary.png))
 
-#### School Summary New  (Might not be right data)
+#### School Summary New 
 ![SCHOOL SUMMARY AFTER REMOVAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/THOMASwithUpdatedData.png)
 
+#### How School District Metrics were effected
+Because of the Analysis we did, it had impacts on the metrics
+- Lower Average Math Score
+- Lower Average Reading Score
+- Lower % Passing Math 
+- Lower % Passing Reading
+- Lower Overall Passing %
+- For the last two metrics "Total Students" and "Total Budget", they in some cases will change, and in other cases remain the same. It depends on the criteria asked for the anaylsis. Since in some sections we were tasked with ommitting only grades, the changes we did only impacted the grade calculations while the student count and budget remained the same. However in some sections the budget and students could change if we were omitting every metric of the 9th Graders from Thomas High School. 
 
-Because of the omission of the Thomas Students who are in 9th Grade from the Data
-- 
--
--
+### Relative impact
+While Thomas High School still is in the top of the pack for High School Performance this does bring them down in overall metrics. They are still in the Top 5 Schools for the District. 
 
-It seems overall there has been some changes to
-
+#### Top Schools After Analysis
+![SCHOOL SUMMARY AFTER REMOVAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/TopSchoolsAfterAnalysis.png)
 
 
+
+
+###Changes to the Schools by grade
+###Changes by spending
+###Changes by size
+###Changes by type
 
 ## Summary 
+### Four Changes 
+There are some take aways from this analysis and it seems that the largest factors to consider are:
+- Lower overall Grades for the Thomas High School 
+- Lower Overall Grades for the District as a whole
+- Lower Overall Grades for the 9th Grade
+- Lower Overall Grades for the Charter Schools 
 
