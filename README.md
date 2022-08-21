@@ -7,11 +7,11 @@ The school board has notified Maria and her supervisor that the students_complet
 This Analysis is going to show us how exactly was the data set of the district analysis and the school analysis affected when we consider the academic dishonesty of 9th Grade students in Thomas High School. The first step in this process was to remove the Math and Reading grades from just that criteria of students. 
 #### Data is removed from one of the 9th Grade Students
 
-![NAN](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/NaN_One_example.png)
+![NAN](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/NaN_One_example.png)
 
 #### When we filter to the 9th Graders at Thomas High School we see all grades are removed
 
-![NAN](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/NaN_Thomas.png)
+![NAN](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/NaN_Thomas.png)
 
 
 Once we were able to remove just the relevant data, we could then redo our District and School analysis. It will be interesting to see how exactly this data was impacted by the removal of that subsection of students from the overall data. 
@@ -23,10 +23,10 @@ Once everything was gathered, we could then look at how the new summaries differ
 
 
 #### District Summary Original 
-![PY CITY SCHOOLS ORIGINAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/PYCitySchoolsDist.png)
+![PY CITY SCHOOLS ORIGINAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/PYCitySchoolsDist.png)
 
 #### District Summary New
-![SCHOOL SUMMARY AFTER REMOVAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/District_With_9th_Correct_Metrics.png)
+![SCHOOL SUMMARY AFTER REMOVAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/DISTRICTwithNOninth.png)
 
 We immediately see a few examples of how this changes the data for the district summary:
 - Lower Passing Math %
@@ -34,10 +34,10 @@ We immediately see a few examples of how this changes the data for the district 
 - Lower Overall Passing %
 
 ####  School Summary Original
-![PY CITY SCHOOLS ORIGINAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/PycitySchoolSummary.png))
+![PY CITY SCHOOLS ORIGINAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/PycitySchoolSummary.png)
 
 #### School Summary New 
-![SCHOOL SUMMARY AFTER REMOVAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/THOMASwithUpdatedData.png)
+![SCHOOL SUMMARY AFTER REMOVAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/School_Summary_After.png)
 
 #### How School District Metrics were effected
 Because of the Analysis we did, it had impacts on the metrics
@@ -48,19 +48,24 @@ Because of the Analysis we did, it had impacts on the metrics
 - Lower Overall Passing %
 - For the last two metrics "Total Students" and "Total Budget", they in some cases will change, and in other cases remain the same. It depends on the criteria asked for the anaylsis. Since in some sections we were tasked with ommitting only grades, the changes we did only impacted the grade calculations while the student count and budget remained the same. However in some sections the budget and students could change if we were omitting every metric of the 9th Graders from Thomas High School. 
 
+#### School Count if Thomas Nith Grade is Not included.
+![SCHOOL COUNT UPDATE](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/If%20Using%20New%20School%20Count/District_Summary.png)
+
+
+
 ### Relative impact
 While Thomas High School still is in the top of the pack for High School Performance this does bring them down in overall metrics. They are still in the Top 5 Schools for the District. 
 
 #### Top Schools After Analysis
-![SCHOOL SUMMARY AFTER REMOVAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/TopSchoolsAfterAnalysis.png)
+![SCHOOL SUMMARY AFTER REMOVAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/TopSchoolsAfterAnalysis.png)
 
 
+![Schools by Grade]()
 
+![Schools by Spend]()
 
-###Changes to the Schools by grade
-###Changes by spending
-###Changes by size
-###Changes by type
+![Schools by Type](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/Charter_updated.png)
+
 
 ## Summary 
 ### Four Changes 
