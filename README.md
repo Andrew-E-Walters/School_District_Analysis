@@ -37,7 +37,7 @@ We immediately see a few examples of how this changes the data for the district 
 ![PY CITY SCHOOLS ORIGINAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/PycitySchoolSummary.png)
 
 #### School Summary New 
-![SCHOOL SUMMARY AFTER REMOVAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/School_Summary_After.png)
+![SCHOOL SUMMARY AFTER REMOVAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/THOMASwithUpdatedData.png)
 
 #### How School District Metrics were effected
 Because of the Analysis we did, it had impacts on the metrics
