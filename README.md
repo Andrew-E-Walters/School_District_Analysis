@@ -59,13 +59,21 @@ While Thomas High School still is in the top of the pack for High School Perform
 #### Top Schools After Analysis
 ![SCHOOL SUMMARY AFTER REMOVAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/TopSchoolsAfterAnalysis.png)
 
+#### School Grade by Population
+![Schools by Size](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/New_Grade%20by%20Size.png)
 
-![Schools by Grade]()
+The School metrics impacted were the medium schools since Thomas High School is in that grouping. 
 
-![Schools by Spend]()
+#### School Grade by Per Capita Spending
+![Schools by Spend](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/New_Grades_by_Budget.png)
 
+
+The School metrics impacted were the schools that spend $631-645 per student since Thomas High School is in that grouping. 
+
+#### School Groups by Type
 ![Schools by Type](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/Charter_updated.png)
 
+The School metrics impacted were the charter schools since Thomas High School is in that grouping. 
 
 ## Summary 
 ### Four Changes 
