@@ -26,7 +26,7 @@ Once everything was gathered, we could then look at how the new summaries differ
 ![PY CITY SCHOOLS ORIGINAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/PYCitySchoolsDist.png)
 
 #### District Summary New
-![SCHOOL SUMMARY AFTER REMOVAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/DISTRICTwithNOninth.png)
+![SCHOOL SUMMARY AFTER REMOVAL](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/District_Summary_All_Students.png)
 
 We immediately see a few examples of how this changes the data for the district summary:
 - Lower Passing Math %
