@@ -48,7 +48,7 @@ Because of the Analysis we did, it had impacts on the metrics
 - Lower Overall Passing %
 - For the last two metrics "Total Students" and "Total Budget", they in some cases will change, and in other cases remain the same. It depends on the criteria asked for the anaylsis. Since in some sections we were tasked with ommitting only grades, the changes we did only impacted the grade calculations while the student count and budget remained the same. However in some sections the budget and students could change if we were omitting every metric of the 9th Graders from Thomas High School. 
 
-#### School Count if Thomas Nith Grade is Not included.
+#### School Count if Thomas Ninth Grade is Not included.
 ![SCHOOL COUNT UPDATE](https://github.com/Andrew-E-Walters/School_District_Analysis/blob/main/Resources/Photos/If%20Using%20New%20School%20Count/District_Summary.png)
 
 
